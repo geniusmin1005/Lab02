@@ -1,0 +1,17 @@
+{
+    "chart_title": "Weekly Study Hours by Course",
+    "data_points": [
+        {
+            "label": "Chem1310",
+            "Hours": 4
+        },
+        {
+            "label": "CS1301",
+            "Hours": 5
+        },
+        {
+            "label": "Math1152",
+            "Hours": 3
+        }
+    ]
+}
